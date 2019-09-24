@@ -1,0 +1,4 @@
+Reference:
+https://virtualenvwrapper.readthedocs.io/en/latest/command_ref.html#managing-environments
+
+pip install virtualenvwrapper

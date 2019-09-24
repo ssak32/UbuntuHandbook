@@ -32,5 +32,9 @@ Deactivate the Environment:
 --------------------------
 $ deactivate
 
+Removing the Environment:
+------------------------
+$ rm -r <environment>
+
 
 
